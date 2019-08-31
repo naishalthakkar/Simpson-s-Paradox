@@ -1,1 +1,1 @@
-# Simpson-s-Paradox
+# Kidney Stones and Simpson's Paradox
